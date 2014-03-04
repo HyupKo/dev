@@ -12,7 +12,6 @@ import javax.xml.bind.annotation.XmlType;
  * </pre>
  * 
  * @desc	: Xml Test Model.
- * @company	: Samsung SDS.
  * @author	: ko
  * @date	: 2014. 3. 3. ¿ÀÈÄ 3:46:16
  * @version	: 1.0.0
